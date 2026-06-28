@@ -1,5 +1,7 @@
 <p align="center">
-https://github.com/user-attachments/assets/911f47c1-6146-402d-ad3b-5fbf95d09e46
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/911f47c1-6146-402d-ad3b-5fbf95d09e46" alt="anabbanner" width="100%">
+</p>
 </p>
 
 <p align="center">
