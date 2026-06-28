@@ -1,4 +1,8 @@
+<p align="center">
+  <img src="https://pin.it/5CvgVwN1s"width="100%" style="border-radius: 12px;">
+</p>
 
+---
 
 <p align="center">
   <img src="[https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif]" width="250px">
@@ -37,6 +41,3 @@
 
 ---
 
-<p align="center">
- <img src="https://pin.it/4hjDWJFBm" width="200px">
-</p>
