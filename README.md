@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://pin.it/7iThAxmPq.gif" width="100%" style="border-radius: 15px;">
+  <img src="https://pin.gif/7iThAxmPq" width="100%" style="border-radius: 15px;">
 </p>
 
 ---
