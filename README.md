@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="lana bb diva.gif" alt="anabbanner" width="100%">
+  <img src="lana bb diva.gif" alt="Lana Del Rey Banner" width="600%">
 </p>
 
 <p align="center">
