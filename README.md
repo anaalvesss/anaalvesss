@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://my-live-01.slatic.net/p/b9f71bfb5a7a1b02b66bf1737dd08579.gif" alt="Lana Del Rey Banner 1" width="600%">
+  <img src="https://my-live-01.slatic.net/p/b9f71bfb5a7a1b02b66bf1737dd08579.gif" alt="Lana Del Rey Banner 1" width="100%">
 </p>
 
 <p align="center">
