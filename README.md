@@ -1,7 +1,6 @@
 <p align="center">
+  <img src="https://my-live-01.slatic.net/p/b9f71bfb5a7a1b02b66bf1737dd08579.gif" alt="Lana Del Rey Banner 1" width="100%">
 </p>
-
----
 
 <p align="center">
   <img src="[https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif]" width="250px">
