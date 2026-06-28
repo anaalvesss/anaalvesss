@@ -9,7 +9,7 @@
 </p>
 
 ---
-## 💗 Tecnologias
+## Tecnologias
 
 <p>
   -
@@ -17,7 +17,7 @@
 
 ---
 
-## 🦇 GitHub
+## 💕 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anaalvesss&show_icons=true&title_color=ff69b4&icon_color=ff1493&text_color=ffc0cb&bg_color=0d1117">
