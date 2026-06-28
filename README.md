@@ -1,6 +1,4 @@
 <p align="center">
-  ![Uploading image.gif…]()
-
 </p>
 
 ---
