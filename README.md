@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://pin.it/7iThAxmPq" width="100%" style="border-radius: 12px;">
+  <img src="https://pin.it/7iThAxmPq" width="100%" style="border-radius: 15px;">
 </p>
 
 ---
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  💻 Estudante de Desenvolvimento de Sistemas pelo SENAI   <br>
+  💻 Estudante de Desenvolvimento de Sistemas pelo SENAI Jaguariúna <br>
 </p>
 
 ---
