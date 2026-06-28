@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://pin.gif/7iThAxmPq" width="100%" style="border-radius: 15px;">
+  ![Uploading image.gif…]()
+
 </p>
 
 ---
