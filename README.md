@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="lana bb diva.gif" alt="anabbanner" width="100%">
+https://github.com/user-attachments/assets/911f47c1-6146-402d-ad3b-5fbf95d09e46
 </p>
 
 <p align="center">
