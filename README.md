@@ -1,10 +1,4 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/911f47c1-6146-402d-ad3b-5fbf95d09e46" width="100%">
-</p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="100%">
-</p>
 
 <p align="center">
   💻 Estudante de Desenvolvimento de Sistemas pelo SENAI Jaguariúna
@@ -15,9 +9,7 @@
 ## 🚀 Tecnologias
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML-ff69b4?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-ff1493?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-ffc0cb?style=for-the-badge&logo=javascript&logoColor=black">
+
 </p>
 
 ---
