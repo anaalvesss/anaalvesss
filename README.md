@@ -12,10 +12,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaalvesss&layout=compact&title_color=ff69b4&text_color=ffc0cb&bg_color=0d1117"> 
 </p>
 
-<p align="center"> 
-  <a href="https://github.com/anaalvesss"> 
-    <img src="https://img.shields.io/badge/GitHub-ff69b4?style=for-the-badge&logo=github&logoColor=white"> 
-  </a> 
-</p>
+<div align="center">
 
----
+<p>💕 💖 💗 💓 💞</p>
+
+[![Vercel Deploy](https://shields.io)](SEU_LINK_DE_DEPLOY)
+[![Vercel Status](https://shields.io)](SEU_LINK_DE_DEPLOY)
+
+<p>💞 💓 💗 💖 💕</p>
+
+</div>
