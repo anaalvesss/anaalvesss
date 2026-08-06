@@ -12,13 +12,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaalvesss&layout=compact&title_color=ff69b4&text_color=ffc0cb&bg_color=0d1117"> 
 </p>
 
-<div align="center">
 
-<p>💕 💖 💗 💓 💞</p>
 
-[![Vercel Deploy](https://shields.io)](SEU_LINK_DE_DEPLOY)
-[![Vercel Status](https://shields.io)](SEU_LINK_DE_DEPLOY)
-
-<p>💞 💓 💗 💖 💕</p>
-
-</div>
